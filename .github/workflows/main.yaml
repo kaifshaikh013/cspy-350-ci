@@ -57,7 +57,7 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            kaifshiakh013/cspy-350:2.0
+            ahmedsaleem704/cspdy-350-ci:5.0
 
 
 
