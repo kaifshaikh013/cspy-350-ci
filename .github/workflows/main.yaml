@@ -1,4 +1,4 @@
-agAagAagAagAagAagAagAagAagAagAagAagAname: CI/CD Workflow
+name: CI/CD Workflow
 
 on:
   push:
@@ -57,6 +57,6 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            kaifshaikh013/cspy-350:demoy
+            kaifshaikh013/cspy-350:demo
 
 
