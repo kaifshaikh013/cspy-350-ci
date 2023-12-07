@@ -57,6 +57,6 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            kaifshaikh013/cspy-350:first
+            kaifshaikh013/cspy-350:latest
 
 
